@@ -1,0 +1,12 @@
+tensorflow
+opencv-python
+numpy
+scikit-learn
+pillow
+rembg 
+python-dotenv
+psycopg2-binary
+
+
+streamlit
+streamlit_option_menu

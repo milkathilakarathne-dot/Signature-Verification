@@ -1,0 +1,8 @@
+__pycache__
+.venv/
+Documents/
+notebooks/
+*.env
+
+Backend/python/DL_Model/Dataset
+Backend/python/DL_Model/Models
